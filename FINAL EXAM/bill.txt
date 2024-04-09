@@ -1,0 +1,9 @@
+-----BILL-----
+NAME :	
+  FORAMCONTACT :	
+  1234567890==============================================
+Number of Quantity :	Product Number :	Price : 	Product name :	
+==============================================
+2	 1	 10	 PIZZAA	 
+
+			 TOTAL	: 23
